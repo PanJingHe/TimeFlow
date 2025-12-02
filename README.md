@@ -73,7 +73,7 @@ python main.py \
   --milestone {checkpoint_number}
 ```
 
-**irregular sampling **
+**irregular sampling**
 
 ```bash
 python main.py \
