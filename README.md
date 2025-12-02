@@ -1,6 +1,5 @@
 # TimeFlow
 
-
 ## Diffusion Experiments for Time Series
 
 This directory contains the diffusion/flow-based time series experiments used in the project.
